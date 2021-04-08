@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Software',
+  title: 'wx notion',
   author: 'Wanx',
   email: 'asimove@126.com',
   link: 'https://nobelium.vercel.app',
