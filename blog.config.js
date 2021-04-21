@@ -6,6 +6,7 @@ const BLOG = {
   description: '也许是个博客.',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
+  font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
